@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8d422d8d-a01f-4d61-913c-63e77845af36" name="2335" url="http://166.111.25.29">
+        <fileTransfer host="166.111.25.29" port="2335" rootFolder="/home/hyin" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2335" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
